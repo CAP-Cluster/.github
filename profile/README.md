@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="CAP Cluster banner.png" width="100%" />
+  <img src="../CAP Cluster banner.png" width="100%" />
 </p>
 
 <p align="center">
-  <img src="CAP icon.png" width="150" />
+  <img src="../CAP icon.png" width="150" />
 </p>
 
 <h1 align="center">CAP CLUSTER</h1>
